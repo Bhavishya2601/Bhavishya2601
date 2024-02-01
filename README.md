@@ -2,7 +2,7 @@
 <h3 align="center">CSE@Chitkara University & A passionate developer from India</h3>
 
 
-- 🌱 I’m currently learning **Web development, Python & C.**
+- 🌱 I’m currently learning **Web development, Python, C & CPP.**
 
 - 📫 How to reach me **bgarg2050bhav@gmail.com**
 
