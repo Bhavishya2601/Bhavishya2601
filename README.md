@@ -1,22 +1,10 @@
-<h3 align="center">A Passionate Computer Science Student & Aspiring Developer</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhavishya2601&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,wordpress,java,c,cpp,py,svelte,nextjs,react,nodejs,express,mongodb,postgres,firebase,tailwind,styledcomponents,npm,pnpm,git,github,postman,docker,stackoverflow,notion,vscode,replit,vercel,linux,windows&perline=17" alt="Tech stack icons" />
 </p>
-
-### 🌱 Currently Learning
-- Expanding my skills in **Web Development**  
-- Mastering **Data Structures & Algorithms in Java**  
-- Constantly exploring new technologies and sharpening problem-solving abilities  
-
 
 ### 📫 Let's Connect
 Feel free to reach out to me at **bhavishya2601garg@gmail.com** for collaborations, project discussions, or just to say hello!
-
-### 🛠️ My Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,wordpress,java,c,cpp,py,nextjs,react,nodejs,express,mongodb,postgres,tailwind,styledcomponents,npm,git,github,postman,docker,stackoverflow,notion,vscode,replit&perline=14" alt="Tech stack icons" />
-</p>
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -26,3 +14,7 @@ Feel free to reach out to me at **bhavishya2601garg@gmail.com** for collaboratio
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhavishya2601&theme=aura" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhavishya2601&theme=aura&utcOffset=8" alt="Productive Time" />
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhavishya2601&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
