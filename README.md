@@ -1,3 +1,5 @@
+<a style="margin: 10px 0;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&pause=1000&color=A277FF&center=true&vCenter=true&width=1100&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Bhavishya+Garg+;Full+Stack+Developer" alt="Typing SVG" /></a>
+
 ### 🛠️ My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,jquery,wordpress,java,c,cpp,py,svelte,nextjs,react,nodejs,express,mongodb,postgres,firebase,tailwind,styledcomponents,npm,pnpm,git,github,postman,docker,stackoverflow,notion,vscode,replit,vercel,linux,windows&perline=17" alt="Tech stack icons" />
